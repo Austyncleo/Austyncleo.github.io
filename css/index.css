@@ -4036,6 +4036,7 @@ figure.highlight pre .javascript .function {
 #article-container {
   word-wrap: break-word;
   overflow-wrap: break-word;
+  text-align: justify;
 }
 #article-container a {
   color: #49b1f5;
